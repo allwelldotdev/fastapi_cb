@@ -1,0 +1,1 @@
+Learning FastAPI with [FastAPI Cookbook](https://learning.oreilly.com/library/view/fastapi-cookbook/9781805127857/) by Giunio De Luca.
