@@ -5,5 +5,5 @@ description = "Learning FastAPI from the FastAPI Cookbook"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "fastapi[standard]>=0.115.11",
+    "fastapi[all]>=0.115.12",
 ]
